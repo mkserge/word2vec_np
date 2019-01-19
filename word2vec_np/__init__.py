@@ -1,0 +1,1 @@
+name = "word2vec_np"
