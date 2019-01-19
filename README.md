@@ -1,2 +1,6 @@
 # word2vec-np
-word2vec CBOW model implementation in pure Numpy
+
+This project is the implementation of the CBOW model from word2vec in pure Numpy.
+
+https://arxiv.org/abs/1301.3781
+
